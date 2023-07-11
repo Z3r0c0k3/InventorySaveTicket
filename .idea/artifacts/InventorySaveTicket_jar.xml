@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="InventorySaveTicket:jar">
+    <output-path>$PROJECT_DIR$/../local server/plugins</output-path>
+    <root id="archive" name="InventorySaveTicket.jar">
+      <element id="module-output" name="InventorySaveTicket" />
+      <element id="library" level="project" name="Maven: net.luckperms:api:5.4" />
+      <element id="library" level="project" name="Maven: org.spigotmc:spigot-api:1.20.1-R0.1-SNAPSHOT" />
+    </root>
+  </artifact>
+</component>
